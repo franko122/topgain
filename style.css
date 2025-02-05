@@ -11,6 +11,13 @@
         font-size:30px;
         position: fixed;
     }
+    .raw{
+        width:100%;
+        height: inherit;
+        background-color:green;
+        outline:none; 
+        border-radius:5px; 
+    }
     .lla{
         width: 90% ;
         margin: auto;
