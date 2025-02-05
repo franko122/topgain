@@ -9,8 +9,7 @@ function starter( ) {
         let Username = "frank" 
         let password = "frank"   
         if  ( one.value == Username && two.value == password) {  
-            wel.style.display="block"
-            ede.style.display="none"
+            window.location="dashboard1.html"
         }else{
             console.log('wrong'); 
             alert('wrong password')
