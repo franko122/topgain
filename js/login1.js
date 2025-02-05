@@ -17,4 +17,4 @@ function starter( ) {
         } 
     })
 }
-starter()￼Enter
+starter()
