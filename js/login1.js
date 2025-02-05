@@ -1,5 +1,6 @@
 function starter( ) {
-
+    let three = document.getElementById("three");
+    
     three.addEventListener('click' , ()=>{ 
     let one = document.getElementById("one");
     let two = document.getElementById("two") ;
