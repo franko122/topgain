@@ -11,6 +11,7 @@
         font-size:30px;
         position: fixed;
     }
+    
     .raw{
         width:100%;
         height: inherit;
@@ -25,12 +26,14 @@
         height:170px;
         color: black;
         font-size:18px;
+        color:white;
+        
         border:solid 2px green;
         text-align: center;  
     }
     .rawdiv{
         width:50%;
-        height:50px;
+        height:80px;
         margin: auto;
         border-radius:10px;
     }
