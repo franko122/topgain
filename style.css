@@ -15,6 +15,7 @@
     .raw{
         width:100%;
         height: inherit;
+        color: white;
         background-color:green;
         outline:none; 
         border-radius:5px; 
@@ -33,7 +34,7 @@
     }
     .rawdiv{
         width:50%;
-        height:160px;
+        height:200px;
         margin: auto;
         border-radius:10px;
     }
