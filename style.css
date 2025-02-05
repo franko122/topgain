@@ -17,9 +17,14 @@
         border-radius:10px;
         height:60px;
         color: black; 
+        background-color:gray;
         text-align: center;
         
     }
+    .lance{
+        color:red;
+        
+    } 
     body::-webkit-scrollbar{
         display: none;
     }
