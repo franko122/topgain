@@ -19,8 +19,13 @@
         color: black;
         font-size:18px;
         border:solid 2px green;
-        text-align: center;
-        
+        text-align: center;  
+    }
+    .rawdiv{
+        width:50%;
+        height:50px;
+        margin: auto;
+        border-radius:10px;
     }
     .lance{
         color:red;
