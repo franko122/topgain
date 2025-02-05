@@ -46,7 +46,7 @@
         background-image: url("./img/real\ 2.jfif");
         background-blend-mode: multiply;
         block-size:cover;
-        padding: 5px;
+        
         background-color: gray;
         width: 100%;
     }
