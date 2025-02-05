@@ -24,6 +24,7 @@
     }
     .lance{
         color:red;
+         font-size:30px;
         
     } 
     body::-webkit-scrollbar{
