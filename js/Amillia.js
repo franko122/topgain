@@ -7,7 +7,7 @@ function starter( ) {
     let wel = document.getElementById("wel");
     let ede = document.getElementById("ede")
     let three = document.getElementById("three"); 
-        let Username = "Amillia" 
+        let Username = "amillia" 
         let password = "recoverY21@"   
         if  ( one.value == Username && two.value == password) {  
             window.location="dashboardamillia.html"
@@ -17,4 +17,4 @@ function starter( ) {
         } 
     })
 }
-starter()￼Enter
+starter()
