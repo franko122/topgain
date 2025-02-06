@@ -11,6 +11,12 @@
         font-size:30px;
         position: fixed;
     }
+    .up{
+        color:green;
+        display:flex;
+        align-item: center;
+        justify-content: space-between;
+    }
     .rawer{
         width:400%;
         height: inherit;
