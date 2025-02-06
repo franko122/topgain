@@ -9,7 +9,7 @@ function starter( ) {
         let Username = "amillia" 
         let password = "recoverY21@"   
         if  ( one.value == Username && two.value == password) {  
-            window.location="dashboardamillia.html"
+            window.location="dashboardamilia.html"
         }else{
             console.log('wrong'); 
             alert('wrong password')
