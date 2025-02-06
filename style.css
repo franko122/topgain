@@ -11,7 +11,11 @@
         font-size:30px;
         position: fixed;
     }
-    
+    .loper{
+        display:flex;
+        align-items: center;
+        
+    }
     .up{
         width:96%; 
         color:green;
