@@ -16,7 +16,7 @@
         color:green;
         margin: auto;
         display:flex;
-        align-item: center;
+        align-items: center;
         justify-content:space-between;
     }
     .rawer{
