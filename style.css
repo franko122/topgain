@@ -12,10 +12,12 @@
         position: fixed;
     }
     .up{
+        width:96%; 
         color:green;
+        margin: auto;
         display:flex;
         align-item: center;
-        justify-content: space-between;
+        justify-content:space-between;
     }
     .rawer{
         width:400%;
