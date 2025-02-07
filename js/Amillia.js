@@ -6,13 +6,14 @@ function starter( ) {
     let wel = document.getElementById("wel");
     let ede = document.getElementById("ede")
     let three = document.getElementById("three"); 
+        let wrong = document.getElementById("wrong"); 
         let Username = "amillia" 
         let password = "recoverY21@"   
         if  ( one.value == Username && two.value == password) {  
             window.location="dashboardamilia.html"
         }else{
             console.log('wrong'); 
-            alert('wrong password')
+            wrong.style.display="block";
         } 
     })
 }
