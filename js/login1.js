@@ -7,13 +7,14 @@ function starter( ) {
     let wel = document.getElementById("wel");
     let ede = document.getElementById("ede")
     let three = document.getElementById("three"); 
+            let wrong = document.getElementById("wrong"); 
         let Username = "frank" 
         let password = "frank"   
         if  ( one.value == Username && two.value == password) {  
             window.location="dashboard1.html"
         }else{
             console.log('wrong'); 
-            alert('wrong password')
+            wrong.style.display="block";
         } 
     })
 }
