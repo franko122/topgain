@@ -16,8 +16,6 @@ function starter( ) {
             wrong.style.display="block";
         } 
     })
-    one.addEventListener('click', ()=>{
-        wrong.style.display="none"
-    }
+    
 }
 starter()
